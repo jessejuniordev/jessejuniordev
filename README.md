@@ -1,7 +1,7 @@
 # Olá! Sou um Desenvolvedor de Software
 **Contatos**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jessejuniordev/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:jessepcarvalhojunior02@gmail.com)
 
 ## Sobre mim
