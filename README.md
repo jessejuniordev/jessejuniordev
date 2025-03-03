@@ -14,7 +14,7 @@ Sou um desenvolvedor dedicado a aprender e aplicar novas tecnologias, com foco e
 </a>
 
 <a href="https://github.com/jessejuniordev" target="_blank">
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
 </a>
 
 <a href="https://github.com/jessejuniordev" target="_blank">
@@ -36,6 +36,11 @@ Sou um desenvolvedor dedicado a aprender e aplicar novas tecnologias, com foco e
 <a href="https://github.com/jessejuniordev" target="_blank">
   <img src="https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge" alt="Git">
 </a>
+
+<a href="https://github.com/jessejuniordev" target="_blank">
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge" alt="Insomnia">
+</a>
+
 <a href="https://github.com/jessejuniordev" target="_blank">
   <img src="https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black&style=for-the-badge" alt="Linux">
 </a>
