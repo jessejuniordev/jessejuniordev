@@ -47,4 +47,3 @@ Sou um desenvolvedor dedicado a aprender e aplicar novas tecnologias, com foco e
 
 ## 
 [![Estastistica Github](https://github-readme-stats.vercel.app/api?username=jessejuniordev&theme=dracula&show_icons=true)](https://github.com/jessejuniordev)
-[![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jessejuniordev&theme=dracula&show_icons=true)](https://github.com/jessejuniordev)
